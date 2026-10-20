@@ -15,7 +15,7 @@ I build with React, TypeScript, JavaScript, and Python. My projects bring togeth
 
 - **Languages:** TypeScript, JavaScript, Python, HTML, CSS
 - **Frontend:** React, Material UI
-- **Backend and data:** Flask, SQLite
+- **Backend and data:** Django, Flask, SQLite
 - **Tools:** Git, GitHub, Vite, MapLibre
 
 ## Current focus
